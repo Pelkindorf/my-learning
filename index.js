@@ -1,1 +1,5 @@
-console.log("Привет, я начал учиться программировать!")
+let name = "Yrii";
+let age = "39";
+console.log(name);
+console.log(age);
+console.log("Мне " + age + " лет");
